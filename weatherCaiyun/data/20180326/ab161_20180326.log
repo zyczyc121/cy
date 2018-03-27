@@ -1,0 +1,46 @@
+{"status":"ok","lang":"zh_CN","server_time":1521995173,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":10.93,"skycon":"CLOUDY","cloudrate":0.83,"aqi":10.0,"humidity":0.6,"pres":100391.52,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":10000.0,"intensity":0.0},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":19.19,"speed":9.87}}}
+{"status":"ok","lang":"zh_CN","server_time":1521996374,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":10.93,"skycon":"CLOUDY","cloudrate":0.83,"aqi":10.0,"humidity":0.6,"pres":100391.52,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":261.31,"intensity":0.1875},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":19.19,"speed":9.87}}}
+{"status":"ok","lang":"zh_CN","server_time":1521998775,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":10.29,"skycon":"CLOUDY","cloudrate":0.85,"aqi":10.0,"humidity":0.63,"pres":100419.61,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":185.06,"intensity":0.1875},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":16.37,"speed":8.75}}}
+{"status":"ok","lang":"zh_CN","server_time":1521999976,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":10.29,"skycon":"CLOUDY","cloudrate":0.85,"aqi":10.0,"humidity":0.63,"pres":100419.62,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":336.38,"intensity":0.1875},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":16.37,"speed":8.75}}}
+{"status":"ok","lang":"zh_CN","server_time":1522002381,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":9.59,"skycon":"CLOUDY","cloudrate":0.9,"aqi":10.0,"humidity":0.67,"pres":100459.07,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":168.57,"intensity":0.1875},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":14.6,"speed":7.28}}}
+{"status":"ok","lang":"zh_CN","server_time":1522003569,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":9.59,"skycon":"CLOUDY","cloudrate":0.9,"aqi":10.0,"humidity":0.67,"pres":100459.07,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":94.56,"intensity":0.1875},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":14.6,"speed":7.28}}}
+{"status":"ok","lang":"zh_CN","server_time":1522005970,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":8.98,"skycon":"CLOUDY","cloudrate":0.94,"aqi":10.0,"humidity":0.7,"pres":100513.18,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":181.25,"intensity":0.1875},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":16.82,"speed":5.5}}}
+{"status":"ok","lang":"zh_CN","server_time":1522007169,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":8.98,"skycon":"CLOUDY","cloudrate":0.94,"aqi":10,"humidity":0.7,"pres":100513.18,"pm25":10,"precipitation":{"nearest":{"status":"ok","distance":159.56,"intensity":0.3125},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":16.82,"speed":5.5}}}
+{"status":"ok","lang":"zh_CN","server_time":1522009569,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":8.44,"skycon":"CLOUDY","cloudrate":0.98,"aqi":10.0,"humidity":0.72,"pres":100574.95,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":10000.0,"intensity":0.0},"local":{"status":"ok","intensity":0.0241,"datasource":"gfs"}},"wind":{"direction":21.16,"speed":3.82}}}
+{"status":"ok","lang":"zh_CN","server_time":1522010768,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":8.44,"skycon":"CLOUDY","cloudrate":0.98,"aqi":10.0,"humidity":0.72,"pres":100574.95,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":10000.0,"intensity":0.0},"local":{"status":"ok","intensity":0.0241,"datasource":"gfs"}},"wind":{"direction":21.16,"speed":3.82}}}
+{"status":"ok","lang":"zh_CN","server_time":1522013190,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":7.85,"skycon":"RAIN","cloudrate":0.99,"aqi":10.0,"humidity":0.74,"pres":100634.83,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":10000.0,"intensity":0.0},"local":{"status":"ok","intensity":0.0407,"datasource":"gfs"}},"wind":{"direction":15.09,"speed":2.68}}}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"failed", "error":"'API quota is exhausted'"}
+{"status":"ok","lang":"zh_CN","server_time":1522068374,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":11.15,"skycon":"CLEAR_NIGHT","cloudrate":0.0,"aqi":10.0,"humidity":0.43,"pres":100992.75,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":10000.0,"intensity":0.0},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":298.93,"speed":8.39}}}
+{"status":"ok","lang":"zh_CN","server_time":1522068374,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":11.15,"skycon":"CLEAR_NIGHT","cloudrate":0.0,"aqi":10.0,"humidity":0.43,"pres":100992.75,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":10000.0,"intensity":0.0},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":298.93,"speed":8.39}}}
+{"status":"ok","lang":"zh_CN","server_time":1522070781,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":11.62,"skycon":"CLEAR_NIGHT","cloudrate":0.09,"aqi":10.0,"humidity":0.41,"pres":100971.55,"pm25":10.0,"precipitation":{"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":288.26,"speed":8.93}}}
+{"status":"ok","lang":"zh_CN","server_time":1522074382,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":11.76,"skycon":"CLEAR_NIGHT","cloudrate":0.2,"aqi":10.0,"humidity":0.41,"pres":100939.13,"pm25":10.0,"precipitation":{"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":278.67,"speed":9.31}}}
+{"status":"ok","lang":"zh_CN","server_time":1522077976,"tzshift":28800,"location":[51.380976,0.153486],"unit":"metric","result":{"status":"ok","temperature":11.57,"skycon":"PARTLY_CLOUDY_NIGHT","cloudrate":0.32,"aqi":10.0,"humidity":0.43,"pres":100901.3,"pm25":10.0,"precipitation":{"nearest":{"status":"ok","distance":54.04,"intensity":0.3125},"local":{"status":"ok","intensity":0.0,"datasource":"gfs"}},"wind":{"direction":269.63,"speed":9.33}}}
