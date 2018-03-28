@@ -1,0 +1,1 @@
+{"status":"ok","lang":"zh_CN","server_time":1522244051,"tzshift":28800,"location":[51.7,-1.9],"unit":"metric","result":{"status":"ok","temperature":7.19,"skycon":"RAIN","cloudrate":0.95,"aqi":10.0,"humidity":0.78,"pres":98741.93,"pm25":10.0,"precipitation":{"local":{"status":"ok","intensity":0.2065,"datasource":"gfs"}},"wind":{"direction":312.44,"speed":18.66}}}
