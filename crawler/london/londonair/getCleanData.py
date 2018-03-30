@@ -13,7 +13,7 @@ import sys as sys
 import math
 from  datetime import datetime
 
-siteCodes = ['CD1','BL0','GR4', 'MY7', 'HV1', 'GN3', 'GR9', 'LW2', 'GN0', 'KF1', 'CD9', 'CT3', 'CT2','BX9','BX1' ]
+siteCodes = ['CD1','BL0','GR4', 'MY7', 'HV1', 'GN3', 'GR9', 'LW2', 'GN0', 'KF1', 'CD9', 'CT3', 'CT2','BX9','BX1','TH4','ST5','RB7','TD5' ]
 siteCodesS = ['BX9', 'BX1']
 
 def getSpecifyDay(filespath,date,siteCodes):
