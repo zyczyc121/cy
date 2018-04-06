@@ -41,7 +41,7 @@ def getWeatherOneDay( curTime, _stationList):
     aqiStationData = []
     for city,lat,lng in _stationList:
         try:
-            s = urllib2.urlopen("https://api.caiyunapp.com/v2/YiMxfNNg1XXxSf9x/%s,%s/weather?begin=%s&tzshift=0&hourlysteps=73" %(lng,lat,curTime)).read()
+            s = urllib2.urlopen("https://api.caiyunapp.com/v2/96Ly7wgKGq6FhllM/%s,%s/weather?begin=%s&tzshift=0&hourlysteps=73" %(lng,lat,curTime)).read()
             #lines = open(path)
         except:
             continue
